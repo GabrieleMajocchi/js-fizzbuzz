@@ -1,8 +1,8 @@
 body{
-    background-color: red;
+    background-color: rgb(9, 9, 65);
     color: white;
     font-family: Georgia, 'Times New Roman', Times, serif;
-	transition: background-color 1s;
+	transition: background-color 1.5s;
 }
 
 main{
