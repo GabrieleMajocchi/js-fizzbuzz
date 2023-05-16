@@ -39,3 +39,16 @@ input, button, select{
 .reset-button{
     background-color: rgb(255, 255, 186);
 }
+
+.fizz{
+    background-color: blueviolet;
+}
+
+.buzz{
+    color: blueviolet;
+}
+
+.fizzbuzz{
+    background-color: blueviolet;
+    color: white;
+}
